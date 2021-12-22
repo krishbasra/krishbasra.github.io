@@ -47,9 +47,10 @@ body{
   }
 
   .Ingredients{
-      margin-left: 42%;
+      text-align: center;
       color: #ddb892;
       font-size: 150%;
+      margin-left: -5%;
   }
   pre{
       color: #ddb892;
