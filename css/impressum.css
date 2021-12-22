@@ -1,19 +1,16 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&display=swap');
 
+body{
+    background-color: #7f5539;
+}
 .title{
     background-color: #ddb892;
     text-align: center;
     font-family: 'Twinkle Star', cursive;
     color: #7f5539;
 }
-
-.Copyright{
-    text-align: center;
-}
-
-body{
-    background-color: #7f5539;
+p{
+    color: #ddb892;
 }
 .Rezept {
     border: none;
@@ -38,7 +35,6 @@ body{
     margin: 4px 2px;
     cursor: pointer;
     background-color: #ddb892;
-    float: none;
   }
   .Impressum {
     border: none;
@@ -51,4 +47,7 @@ body{
     margin: 4px 2px;
     cursor: pointer;
     background-color: #ddb892;
+  }
+  hr{
+      color: #ddb892;
   }
